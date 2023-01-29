@@ -1,0 +1,1 @@
+/Users/stefanhall/projects/diesel/diesel_demo/diesel_demo/target/debug/publish_post: /Users/stefanhall/projects/diesel/diesel_demo/diesel_demo/src/bin/publish_post.rs /Users/stefanhall/projects/diesel/diesel_demo/diesel_demo/src/lib.rs /Users/stefanhall/projects/diesel/diesel_demo/diesel_demo/src/models.rs /Users/stefanhall/projects/diesel/diesel_demo/diesel_demo/src/schema.rs
